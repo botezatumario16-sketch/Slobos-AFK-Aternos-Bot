@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Slobot_SEF",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BugetSMP.aternos.me",
-    "port": 40122,
+    "ip": "Zentrix_SMP.aternos.me",
+    "port": 45012,
     "version": "",
     "try-creative": false
   },
